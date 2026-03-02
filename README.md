@@ -38,7 +38,8 @@ https://youtube.com/playlist?list=PL-PHXChFg8_tv0e8bNxYuh5VdWH0JO1sl&si=1K1-1GJu
 ├─ Week 1
 │  ├─ A.ing_Transformer_Cheat_sheet.md
 │  ├─ A.ing_Transformer_Questions.md
-│  └─ A.ing_Transformer_Questions_Answer.md
+│  ├─ A.ing_Transformer_Questions_Answer.md
+│  └─ Attention is all you need Paper.pdf
 ├─ Week 2
 │  ├─ A.ing_Transformer_from_scratch_blank.ipynb
 │  └─ A.ing_Transformer_Cookbook.md
