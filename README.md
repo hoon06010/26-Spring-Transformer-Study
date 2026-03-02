@@ -1,4 +1,3 @@
-# 🛠️현재 제작 중
 ## Introduction
 A.ing 주니어 트랙 Transformer 세션은 Transformer에 대한 근본적인 이해를 목표로 합니다.<br>
 단순히 모델을 가져다 쓰는 것이 아니라, 그 내부 구조와 작동 원리를 이해하고, 자신의 데이터에 맞춰 수정하고 개선할 수 있는 능력을 기르는 것을 목표로 합니다.<br>
@@ -34,6 +33,8 @@ https://youtube.com/playlist?list=PL-PHXChFg8_tv0e8bNxYuh5VdWH0JO1sl&si=1K1-1GJu
 ## Folder Structure
 ```text
 26-Spring-Transformer-Study/
+├─ README.md
+├─ rules.md
 ├─ Week 1
 │  ├─ A.ing_Transformer_Cheat_sheet.md
 │  ├─ A.ing_Transformer_Questions.md
@@ -41,10 +42,9 @@ https://youtube.com/playlist?list=PL-PHXChFg8_tv0e8bNxYuh5VdWH0JO1sl&si=1K1-1GJu
 ├─ Week 2
 │  ├─ A.ing_Transformer_from_scratch_blank.ipynb
 │  └─ A.ing_Transformer_Cookbook.md
-├─ Week 3
-│  ├─ A.ing_리그전_Transformer_Explain.md
-│  └─ A.ing_리그전_Transformer_Finetune_Multi30k_IWSLT.ipynb
-└─ README.md
+└─ Week 3
+   ├─ A.ing_리그전_Transformer_Explain.md
+   └─ A.ing_리그전_Transformer_Finetune_Multi30k_IWSLT.ipynb
 ```
 
 ## Attention is all you need 논문
