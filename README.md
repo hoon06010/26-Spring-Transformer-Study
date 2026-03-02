@@ -28,7 +28,7 @@ A.ing 주니어 트랙 Transformer 세션은 Transformer에 대한 근본적인 
 | 4 | 정리 | 실험 데이터 기록 | 1등 팀의 전략 발표 및 로그 분석 |
 
 ## Paper Link
-Attention is all you need
+Attention is all you need  
 https://arxiv.org/abs/1706.03762
 
 ## Transformer_Youtube_Playlist
