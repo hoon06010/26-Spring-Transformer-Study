@@ -16,7 +16,7 @@ $$MultiHead(Q, K, V) = Concat(head_1,\dots,head_h)W^O$$
 
 ---
 
-## 2. Transformer는 Scaled Dot-Product Attention에서 $QK^\top$를 그대로 softmax에 넣지 않고 왜$\sqrt{d_k}$로 나눈 뒤 softmax를 적용하는가?
+## 2. Transformer는 Scaled Dot-Product Attention에서 $QK^\top$를 그대로 softmax에 넣지 않고 $\sqrt{d_K}$로 나눈 뒤 softmax를 적용하는가?
 논문 Section 3.2.1은 $d_k$가 커질수록 dot-product 값이 커져 softmax가 **saturation(포화)** 될 수 있다고 설명한다.
 
 (1) $QK^\top$의 분산 관점에서 scaling이 필요한 이유를 설명하시오.
