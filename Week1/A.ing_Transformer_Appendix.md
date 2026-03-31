@@ -1,4 +1,4 @@
-# A.ing NLP Week8 Appendix
+# A.ing Transformer Appendix
 
 ## 순차 데이터와 언어 모델링의 발전
 
